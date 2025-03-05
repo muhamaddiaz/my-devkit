@@ -36,7 +36,10 @@ return {
 				"emmet_ls",
 				"prismals",
 				"pyright",
+				"bashls",
+				"ts_ls",
 			},
+			automatic_installation = true,
 		})
 
 		mason_tool_installer.setup({
